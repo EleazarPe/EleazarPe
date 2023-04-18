@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EleazarPe
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Nodejs
 - 🌎 I’m from Dominican Republic
 
 <!---
